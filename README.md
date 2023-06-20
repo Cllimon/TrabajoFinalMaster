@@ -11,6 +11,8 @@ Archivo xlsx del conjunto de datos usado para el desarrollo de este trabajo.
 **Carpeta app**
 
 Carpeta con los archivos correspondientes a la aplicación web. 
+Funcionamiento de la aplicación web en este enlace: 
+https://claudiauoc.pythonanywhere.com/
 
 **app/app.py**
 
